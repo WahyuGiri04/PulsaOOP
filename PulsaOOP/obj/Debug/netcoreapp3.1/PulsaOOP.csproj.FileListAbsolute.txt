@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.exe
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.deps.json
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.runtimeconfig.json
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.dll
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\bin\Debug\netcoreapp3.1\PulsaOOP.pdb
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.dll
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.pdb
+C:\Users\ASUS\source\repos\PulsaOOP\PulsaOOP\obj\Debug\netcoreapp3.1\PulsaOOP.genruntimeconfig.cache
