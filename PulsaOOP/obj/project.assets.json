@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\PulsaOOP\\PulsaOOP\\PulsaOOP.csproj",
+      "projectUniqueName": "E:\\MCC\\Project Tugas\\PulsaOOP\\PulsaOOP\\PulsaOOP.csproj",
       "projectName": "PulsaOOP",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\PulsaOOP\\PulsaOOP\\PulsaOOP.csproj",
+      "projectPath": "E:\\MCC\\Project Tugas\\PulsaOOP\\PulsaOOP\\PulsaOOP.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\PulsaOOP\\PulsaOOP\\obj\\",
+      "outputPath": "E:\\MCC\\Project Tugas\\PulsaOOP\\PulsaOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
